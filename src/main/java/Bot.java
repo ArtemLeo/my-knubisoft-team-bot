@@ -7,8 +7,8 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 public class Bot extends TelegramLongPollingBot {
 
-    final private String botToken = "";
-    final private String botName = "";
+    final private String botToken = "5578567022:AAE0CPsPGl6bN0xmvWUFVnxJzey_81Uxr1k";
+    final private String botName = "https://t.me/MyKnubiSoftTeamBot";
 
     @Override
     public String getBotUsername() {
