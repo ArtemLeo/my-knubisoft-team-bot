@@ -1,4 +1,4 @@
-<h1 align>My-KnubiSoft-Team-Bot 🖐</h1>
+<h1 align>My KnubiSoft Team Bot 🖐</h1>
 <h2>🟠 Java Telegram Bot 👇</h2>
 
 <img src="README images/1.png" alt="Logo">
