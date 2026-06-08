@@ -7,4 +7,3 @@
 <img src="README images/4.png" alt="Logo">
 <img src="README images/5.png" alt="Logo">
 <img src="README images/6.png" alt="Logo">
-
